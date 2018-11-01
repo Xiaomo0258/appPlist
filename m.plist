@@ -18,14 +18,14 @@
                         <string>display-image</string>
                         <key>needs-shine</key><true/>
                         <key>url</key>
-                        <string>http://www.apicloud.com/uploadfiles/sys/default.57x57.png</string>
+                        <string>http://www.tv662.cn/icon.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>needs-shine</key><true/>
                         <key>url</key>
-                        <string>http://www.apicloud.com/uploadfiles/sys/default.57x57.png</string>
+                        <string>http://www.tv662.cn/icon.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
